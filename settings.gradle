@@ -1,0 +1,3 @@
+include ':SDKLibrary'
+include ':app'
+rootProject.name = "AndroidDevSDK"
